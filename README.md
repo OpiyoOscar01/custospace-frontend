@@ -1,6 +1,6 @@
 # Create a README.md file with the combined content
 
-readme_content = """# 🚀 Custospace – React + Vite Project
+🚀 Custospace – React + Vite Project
 
 Custospace is a collaborative web platform built using modern frontend technologies such as **React**, **Vite**, **TailwindCSS**, **Redux Toolkit**, and **Axios**.
 
@@ -38,5 +38,5 @@ If you are developing a production application, we recommend using TypeScript wi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/custospace.git
-cd custospace
+git clone https://github.com/OpiyoOscar01/custospace-frontend.git
+
