@@ -1,7 +1,8 @@
 
 import { authRoutes } from "./authRoutes"
+import guestRoutes from "./guestRoutes"
 const routes=[
   authRoutes,
-  // dashboardRoutes
+  guestRoutes,
 ]
 export default routes
