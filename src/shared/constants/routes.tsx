@@ -5,6 +5,8 @@ export const ROUTES = {
   home: "/",
 };
 
+export const BASE_URL="http://127.0.0.1:8000";
+
 /**
  * usage:
  * import { ROUTES } from 'src/shared/constants/routes';
